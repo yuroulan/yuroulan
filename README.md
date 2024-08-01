@@ -1,4 +1,4 @@
-Hi There! Anati here 😊
+Hi There! Anati is here 😊
 
 - 👋 Electrical Engineering Graduate from UiTM Shah Alam | Data Science & IoT Enthusiast
 - 🔧 Proficient in Python, C/C++, and MySQL
