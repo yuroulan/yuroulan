@@ -7,4 +7,4 @@ Hi There! Anati is here 😊
 - 🌱 Passionate about developing advanced algorithms and innovative solutions
 - 📈 Experienced in project management, GUI design, and energy audits
 - 🌍 Advocate for integrating additive manufacturing and environmental monitoring
-- 🚀 Let’s connect and collaborate on exciting projects! Feel free to customize any part of this bio to better reflect your personal style or specific projects you want to highlight!
+- 🚀 Let’s connect and collaborate on exciting projects!
