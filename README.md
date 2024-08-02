@@ -1,7 +1,7 @@
 Hi There! Anati is here 😊
 
 - 👋 Electrical Engineering Graduate from UiTM Shah Alam | Data Science & IoT Enthusiast
-- 🔧 Proficient in Python, C/C++, and MySQL
+- 🔧 Proficient in Python, C/C++, and SQL
 - 📊 Certified in Python Data Science | Skilled in EDA, statistical methods, and machine learning
 - ⚙️ Hands-on experience with Power World Simulator, Proteus, Fusion 360, Jupyter, and more
 - 🌱 Passionate about developing advanced algorithms and innovative solutions
